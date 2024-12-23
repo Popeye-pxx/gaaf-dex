@@ -36,3 +36,4 @@ python train_gaaf.py --data_root <PATH_TO_DATA>
 
 This repo is based on [Cross-View-AG](https://github.com/lhc1224/Cross-View-AG)
 , [LOCATE](https://github.com/Reagan1311/LOCATE) Thanks for their great work!
+# gaaf-dex
