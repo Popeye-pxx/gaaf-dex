@@ -1,0 +1,7 @@
+argparse
+tqdm
+fast-pytorch-kmeans
+numpy
+matplotlib
+opencv-python
+mediapipe
