@@ -5,7 +5,7 @@
 [![ ](https://img.shields.io/youtube/views/RLHansdFxII?label=Video&style=flat)](https://www.youtube.com/watch?v=RLHansdFxII)  -->
 https://github.com/user-attachments/assets/3c67e849-5426-4c5b-8750-c75ea25cd0b4
 
-https://github.com/user-attachments/assets/ab540639-b199-42c2-a5f3-55f09ccd0d69
+https://github.com/user-attachments/assets/ec3d09d0-f97e-4426-9bf6-a06ca95a7110
 ## Usage
 
 ### 1. Requirements
