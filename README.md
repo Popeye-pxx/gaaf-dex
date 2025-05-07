@@ -3,7 +3,7 @@
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2303.09665-b31b1b.svg)](https://arxiv.org/abs/2303.09665)
 [![GitHub](https://img.shields.io/website?label=Project%20Page&up_message=page&url=https://reagan1311.github.io/locate/)](https://reagan1311.github.io/locate/)
 [![ ](https://img.shields.io/youtube/views/RLHansdFxII?label=Video&style=flat)](https://www.youtube.com/watch?v=RLHansdFxII)  -->
-https://github.com/user-attachments/assets/97ca712d-730c-487e-8bf7-01c91776874d
+https://github.com/user-attachments/assets/ceefff6a-80fa-46e7-ae9c-970f269b9614
 
 https://github.com/user-attachments/assets/ec3d09d0-f97e-4426-9bf6-a06ca95a7110
 ## Usage
